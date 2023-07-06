@@ -33,6 +33,14 @@ MonoBehaviour:
     m_Address: Assets/Character/Materials/M_Armature_Legs.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 11990f178449817468944296e323f54a
+    m_Address: Assets/Audio/Blue_Ever.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1f25166d97bda44f9cfd4f997ecb254
+    m_Address: "Assets/Logo/\u89D2\u4E38\u6DF5\u30DC\u30BF\u30F3\u7DD1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: dff43aebb07ea184d84d25c92c52fe7a, type: 2}
   m_SchemaSet:
